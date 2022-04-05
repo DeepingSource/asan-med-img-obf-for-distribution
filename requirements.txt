@@ -1,0 +1,14 @@
+batchgenerators
+h5py
+imageio
+jupyter
+matplotlib
+medpy
+nibabel
+pandas
+scikit-learn
+scikit-image
+scipy
+seaborn
+SimpleITK
+torchvision==0.5.0
