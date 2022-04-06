@@ -1,3 +1,5 @@
+[This repository is to open and share an example codes for the research program supported by Korean Ministry of Health and Welfare.]
+
 # Segmentation model on obfuscated medical image
 This repository is about learning a segmentation model based on obfuscated medical images 
 and making inferences based on it. 
